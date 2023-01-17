@@ -1,0 +1,60 @@
+
+.subscribe{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+background: #FAFAFA;
+}
+
+.leftSub{
+    margin: 68px;
+}
+.leftSub h1{
+    
+    width: 432.24px;
+}
+.leftSub p{
+    text-align: start;
+    width: 411.01px;
+  
+}
+.leftSub input{
+    display: flex;
+   
+    padding: 8.49195px 8.49195px 8.49195px 20.3807px;
+    width: 411.01px;
+    height: 45.86px;
+    background: #FAFAFA;
+    border: 1.27379px solid #B9D1CD;
+    border-radius: 3.39678px;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.leftSub button{
+    padding: 13.5871px 33.9678px;
+margin-top: 10px;
+width: 137.94px;
+height: 46.17px;
+
+color: white;
+border: 1px solid #146356;
+
+background: #146356;
+border-radius: 3.39678px;
+}
+
+.rightSub{
+    margin: 68px;
+}
+.rightSub img{
+    width: 498.48px;
+    height: 445.83px;
+   
+    
+    background: #0E0E0E;
+    opacity: 0.35;
+}

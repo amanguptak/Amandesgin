@@ -1,0 +1,22 @@
+
+.reviews{
+    text-align: center;
+}
+.our{
+    text-align: center;
+    font-weight: bolder;
+}.grids{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 40px;
+  
+    padding: 100px;
+}
+
+.users{
+    cursor: pointer;
+    margin: 10px;
+}
+.users span{
+    font-size: 13px;
+}

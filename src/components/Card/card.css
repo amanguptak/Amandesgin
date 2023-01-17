@@ -1,0 +1,81 @@
+.data{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 27.1px;
+    color: white;
+    letter-spacing: 0.254758px;
+    margin-top: 70px;
+}
+
+.card1{
+    width: 322.69px;
+height: 518.01px;
+
+
+background: linear-gradient(180deg, rgba(20, 99, 86, 0) 50%, rgba(20, 99, 86, 0.8) 74.2%), url("../../images/img1.png");
+border-radius: 3.39678px;
+
+
+
+}
+
+.card1 p{
+    width: 295.52px;
+height: 81.52px;
+}
+.data1{
+    margin-top: 381px;
+    margin-left: 29px;
+
+}
+.data2{
+    margin-top: 250px;
+    text-align: center;
+}
+
+.data3{
+    width: 218.52px;;
+height: 81.52px;
+line-height: 27px;
+margin-left: 20px;
+
+letter-spacing: 0.254758px;
+}
+.data2 button{
+    padding: 13.5871px 33.9678px;
+    background: transparent;
+    height: 46.17px;
+    width: 136px;
+    color: white;
+    font-weight: bolder;
+    border: 2px solid #FAFAFA;
+    border-radius: 3.39678px;
+    margin-top: 60px;
+}
+
+.card2{
+    width: 322.69px;
+    height: 518.01px;
+  
+    
+    background: linear-gradient(0deg, rgba(20, 99, 86, 0.9), rgba(20, 99, 86, 0.9)), url("../../images/img2.png");
+    border-radius: 3.39678px;
+}
+.card2 p{
+    font-size:13px;
+}
+.card3{
+    width: 322.69px;
+    height: 518.01px;
+  
+    background: linear-gradient(180deg, rgba(20, 99, 86, 0) 50%, rgba(20, 99, 86, 0.8) 74.2%), url("../../images/img3.png");
+    border-radius: 3.39678px;
+}
+
+.card3 p{
+    margin-left: 30px;
+    margin-top: 380px;
+    width: 219.52px;
+    height: 81.52px;
+}

@@ -1,23 +1,30 @@
-import logo from './logo.svg';
 import './App.css';
+import Benefactors from './components/Benefactors/Benefactors';
+import Card from './components/Card/Card';
+import Casestudy from './components/casestudy/Casestudy';
+import Comp2 from './components/comp2/Comp2';
+import Footer from './components/Footer/Footer';
+import Frame from './components/Frame/Frame';
+import Header from './components/Header/Header';
+import Moto from "./components/Slogan/Slogan"
+import Static from './components/Static/Static';
+import Subscribe from './components/Subscribe/Subscribe';
+import TopBar from './components/TopBar/TopBar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <TopBar/>
+      <Header/>
+      <Moto/>
+      <Static/>
+      <Card/>
+      <Comp2/>
+      <Benefactors/>
+      <Casestudy/>
+      <Frame/>
+      <Subscribe/>
+      <Footer/>
     </div>
   );
 }

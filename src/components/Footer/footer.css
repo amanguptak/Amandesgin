@@ -1,0 +1,77 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    background: #146356;
+    
+height: 194.19px;
+cursor: pointer;
+padding: 60px;
+justify-content: space-between;
+}
+
+
+.box1{
+    color: #A3DA8D;
+    cursor: pointer;
+}
+.box1 h3{
+    margin-bottom:20px;
+}
+
+.box1 i{
+    
+    margin-left:10px;
+}
+
+.link{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    margin-bottom: 52px;
+}
+.box2 h4{
+    color: white;
+}
+.box2 input{
+    padding: 8.49195px 8.49195px 8.49195px 20.3807px;
+color: white;
+    width: 339.68px;
+    height: 23.01px;
+    border: none;
+    background: rgba(0, 0, 0, 0.15);
+    border-radius: 3.39678px 0px 0px 3.39678px;
+}
+
+.box2 button{
+    padding: 10.1903px 27.1742px;
+gap: 8.49px;
+border: none;
+width: 135.87px;
+height: 42.38px;
+color: white;
+
+background: #FFA17A;
+border-radius: 0px 3.39678px 3.39678px 0px;
+}
+.box3{
+    margin-top: 85px;
+    /* text-align: start; */
+    color: white;
+    width: 271.74px;
+    /* height: 96.81px; */
+    margin-right: 83px;
+}
+
+.last{
+    border-top: 1px solid white;
+    display:flex;
+    font-size: 12px;
+    padding-left: 30px;
+    padding-right:30px;
+    color: white;
+    background: #146356;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+}

@@ -1,0 +1,45 @@
+.cmp2{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 68px;
+  
+}
+
+.des{
+    display: grid; 
+    text-align: center;
+   margin: 89px;
+  
+}
+.des h1{
+    
+text-align: start;
+width: 337.61px;
+height: 96px;
+}
+.des p{
+    text-align: start;
+    width: 407.61px;
+height: 75px;
+
+
+line-height: 25px;
+
+
+letter-spacing: 0.424597px;
+
+
+
+
+}
+
+.des button{
+    width: 135.87px;
+height: 46.17px;
+margin-left: 7px;
+border: 1px solid #146356;
+color: white;
+background: #146356;
+border-radius: 3.39678px;
+}
